@@ -14,3 +14,6 @@ console.log("login and sign is successull procedd");
 
 
 console.log("other process");
+let payment=true;
+
+console.log("Payment is started");
