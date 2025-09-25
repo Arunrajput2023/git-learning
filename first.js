@@ -17,3 +17,7 @@ console.log("other process");
 let payment=true;
 
 console.log("Payment is started");
+
+let Qrstarted=true;
+
+console.log("qr started ");
